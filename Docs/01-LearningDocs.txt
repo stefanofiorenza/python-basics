@@ -1,0 +1,23 @@
+
+PyCharm:
+https://www.jetbrains.com/help/pycharm/installation-guide.html
+
+
+PIP
+https://www.liquidweb.com/kb/install-pip-windows/
+
+
+Python:
+
+Basic Tutorials:
+	https://www.tutorialspoint.com/python/index.htm
+	https://www.learnpython.org/
+	https://www.w3schools.com/python/
+	
+
+
+Video:
+
+Python@Mosh
+https://www.youtube.com/watch?v=_uQrJ0TkZlc
+https://www.youtube.com/watch?v=rfscVS0vtbw
